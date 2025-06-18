@@ -1,4 +1,8 @@
-<h1 align="center">👋🏾 Hi, I'm <span style="color:#007AFF">JMack</span></h1>
+<p align="center">
+  <img src="romecity_github_banner.png" alt="rome city banner" width="100%" />
+</p>
+
+<h1 align="center">👋🏾 Hi, I'm <span style="color:#007AFF">rome city</span></h1>
 <h3 align="center">Full Stack Developer | Builder of Tinbit 💘 | Passionate about Cloud & Distributed Systems</h3>
 
 ---
@@ -24,27 +28,30 @@ I'm a developer with internship experience at Apple and NOC experience at Wayfai
 - **React** frontend
 - Planned **cloud-native distributed deployment**
 
-🚧 In Progress:
-- Building out API routes
-- Adding authentication and user onboarding
-- Deploy-ready architecture for scalability
-
 ---
 
 ### [📱 Goal Keeper (Android App)](https://github.com/romecity/goal-keeper-android)
 🎯 A mobile app that helps users set, track, and achieve personal goals.  
-Built using **Java** and the **Android SDK**, this app allows intuitive goal creation and visualization.
+Built using **Java** and the **Android SDK**.
 
 ---
 
 ### 🧪 GitHub Classroom Projects
 
-Group of academic full stack assignments focused on backend APIs, frontend logic, and deployment concepts.
-
 - [Project 1](https://classroom.github.com/a/qlutWmNt)
 - [Project 2](https://classroom.github.com/a/V9xrFToE)
 - [Project 3](https://classroom.github.com/a/GGMuWdbr)
 - [Project 4](https://classroom.github.com/a/LWBcsnmf)
+
+---
+
+### 🎓 CS-665 Advanced Software Engineering Projects  
+Hands-on assignments focused on software design patterns and architecture using Java.
+
+- [Assignment 1](https://github.com/metcs/met-cs665-assignment-1-romecity): *Introduction to object-oriented programming and message dispatching systems*
+- [Assignment 2](https://github.com/metcs/met-cs665-assignment-2-romecity): *Implemented the Factory Method pattern for a delivery dispatching system*
+- [Assignment 3](https://github.com/metcs/met-cs665-assignment-3-romecity): *Used Strategy and Observer patterns to simulate customer notifications and preferences*
+- [Assignment 4](https://github.com/metcs/met-cs665-assignment-4-romecity): *Built a complete modular system with a combination of design patterns for extensibility*
 
 ---
 
@@ -73,8 +80,18 @@ Group of academic full stack assignments focused on backend APIs, frontend logic
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romecity&show_icons=true&theme=transparent&custom_title=My+GitHub+Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romecity&theme=transparent" />
+</p>
+
+---
+
 ## 🗣️ Quote I Live By
 
-> “I build for connection. I build for joy. I build for impact.” — JMack
+> “I build for connection. I build for joy. I build for impact.” — rome city
 
 ---
